@@ -1,0 +1,17 @@
+[
+    {
+        "type": "image",
+        "url": "assets/images/masjid1.jpg",
+        "title": "Beautiful View of Bagbari Jame Masjid"
+    },
+    {
+        "type": "image",
+        "url": "assets/images/masjid2.jpg",
+        "title": "Evening Prayer Time"
+    },
+    {
+        "type": "video",
+        "url": "assets/videos/khutbah.mp4",
+        "title": "Friday Jummah Khutbah"
+    }
+]

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bagbari Jame Masjid</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Sidebar Navigation -->
+    <nav class="sidebar" id="sidebar">
+        <h2>Bagbari Jame Masjid</h2>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="incomes.html">Incomes</a></li>
+            <li><a href="expenses.html">Expenses</a></li>
+            <li><a href="advertisements.html">Advertisements</a></li>
+            <li><a href="gallery.html">Gallery</a></li>
+            <!-- <li><a href="login.html" class="login-link" id="authLink">Login</a></li> -->
+        </ul>
+    </nav>
+
+    <!-- Mobile Sidebar Toggle Button -->
+    <!-- <button id="sidebar-toggle">☰ Menu</button> -->
+
+    <!-- Main Content -->
+    <main>
+        <h1>Welcome to Bagbari Jame Masjid</h1>
+        <p>Here you can find all the details about our masjid's activities.</p>
+
+        <!-- Summary Data Section -->
+        <section id="summary">
+            <h2>Financial Summary</h2>
+            <p><strong>Total Incomes:</strong> <span id="total-income">Loading...</span></p>
+            <p><strong>Total Expenses:</strong> <span id="total-expense">Loading...</span></p>
+            <p><strong>Net Balance:</strong> <span id="net-balance">Loading...</span></p>
+        </section>
+    </main>
+
+    <!-- Include JavaScript -->
+    <script src="script.js"></script>
+    <script src="firebase.js"></script>
+</body>
+</html>

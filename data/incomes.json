@@ -1,0 +1,17 @@
+[
+    {
+        "date": "2025-03-01",
+        "amount": "5000 BDT",
+        "source": "Donations"
+    },
+    {
+        "date": "2025-03-05",
+        "amount": "2000 BDT",
+        "source": "Monthly Contribution"
+    },
+    {
+        "date": "2025-03-10",
+        "amount": "1500 BDT",
+        "source": "Charity"
+    }
+]
